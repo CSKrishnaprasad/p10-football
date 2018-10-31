@@ -33,7 +33,7 @@ Supports only text based content right now.
 ## Installation :
 
 Unzip the LedP10 archive inside any directory on your machine.
-
+  
 Read the readme Install file.
 
 Copy LedP10 folder into /Arduino/libraries of your arduino installation.
